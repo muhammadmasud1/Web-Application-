@@ -98,7 +98,7 @@ const Banner = () => {
                 name="email"
                 placeholder="Enter your email"
                 required
-                className="border-2 border-gray-300 text-black rounded-lg p-2 text-sm w-full text-center sm:w-64"
+                className="border-2 border-gray-300 text-white rounded-lg p-2 text-sm w-full text-center sm:w-64"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
               />

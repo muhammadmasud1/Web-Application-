@@ -8,7 +8,7 @@ const About = () => {
   return (
 
     <div>
-      <AboutBanner></AboutBanner>
+      {/* <AboutBanner></AboutBanner> */}
       <AboutMe></AboutMe>
       <ContactForm></ContactForm>
     </div>
